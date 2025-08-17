@@ -1,2 +1,2 @@
 # E-Commerce-MERN-Website
-E- Commerce website in MERN stack.
+E- Commerce website in MERN stack(codeistancy).
